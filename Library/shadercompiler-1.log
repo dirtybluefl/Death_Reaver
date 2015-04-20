@@ -1,3 +1,27 @@
 Base path: F:/Program Files/UnityEditor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-1-1576
+Pipe name: \\.\pipe\UnityShaderCompiler-1-11616
 Cmd: getPlatforms
+Cmd: preprocess
+  error: 2 plat 1 at (49): unable to find compatible overloaded function "tex2D(half4, half2)"
+  insize=1586 outsize=2151 ok=0
+Cmd: preprocess
+  insize=1652 outsize=1159 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5279 outsize=3094 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5279 outsize=2249 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3236 outsize=3053 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3236 outsize=2322 kw=POINT ok=1
+Cmd: preprocess
+  error: 2 plat 1 at (49): unable to find compatible overloaded function "tex2D(half4, half2)"
+  insize=1647 outsize=2212 ok=0
+Cmd: preprocess
+  insize=1662 outsize=1160 ok=1
+Cmd: preprocess
+  insize=1647 outsize=1154 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3236 outsize=2338 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3236 outsize=1908 kw=DIRECTIONAL ok=1
