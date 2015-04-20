@@ -1,9 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Civilian Models\ArtResources\Shader\CharacterShader_mobile.shader">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Civilian_Models\ArtResources\Shader\CharacterShader_mobile.shader">
     <Files>
-      <File FileName="Assets\Civilian Models\ArtResources\Shader\CharacterShader_mobile.shader" Line="25" Column="19" />
-      <File FileName="Temp\Compiled-Normal-Diffuse-Win.shader" Line="6" Column="2" />
+      <File FileName="Assets\Civilian_Models\ArtResources\Shader\CharacterShader_mobile.shader" Line="11" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
