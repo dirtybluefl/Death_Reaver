@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: 692147f440e8bcb448a15fefec2adced
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: chin_joint
+    100002: head_joint
+    100004: hip_joint
+    100006: jaw_joint
+    100008: //RootNode
+    100010: Kesh
+    100012: Left_ankle_joint
+    100014: Left_ball_joint
+    100016: Left_clavicle_joint
+    100018: Left_elbow_joint
+    100020: Left_hand_joint
+    100022: Left_index01_joint
+    100024: Left_index02_joint
+    100026: Left_index03_joint
+    100028: Left_index04_joint
+    100030: Left_knee_joint
+    100032: Left_middlie01_joint
+    100034: Left_middlie02_joint
+    100036: Left_middlie03_joint
+    100038: Left_middlie04_joint
+    100040: Left_pinky01_joint
+    100042: Left_pinky02_joint
+    100044: Left_pinky03_joint
+    100046: Left_pinky04_joint
+    100048: Left_ring01_joint
+    100050: Left_ring02_joint
+    100052: Left_ring03_joint
+    100054: Left_ring04_joint
+    100056: Left_shoulder_joint
+    100058: Left_thigh_joint
+    100060: Left_thumb01_joint
+    100062: Left_thumb02_joint
+    100064: Left_thumb03_joint
+    100066: Left_thumb04_joint
+    100068: Left_toe_joint
+    100070: Left_weapon_joint
+    100072: Left_wrist_joint
+    100074: lowerneck_joint
+    100076: Right_ankle_joint
+    100078: Right_ball_joint
+    100080: Right_clavicle_joint
+    100082: Right_elbow_joint
+    100084: Right_hand_joint
+    100086: Right_index01_joint
+    100088: Right_index02_joint
+    100090: Right_index03_joint
+    100092: Right_index04_joint
+    100094: Right_knee_joint
+    100096: Right_middlie01_joint
+    100098: Right_middlie02_joint
+    100100: Right_middlie03_joint
+    100102: Right_middlie04_joint
+    100104: Right_pinky01_joint
+    100106: Right_pinky02_joint
+    100108: Right_pinky03_joint
+    100110: Right_pinky04_joint
+    100112: Right_ring01_joint
+    100114: Right_ring02_joint
+    100116: Right_ring03_joint
+    100118: Right_ring04_joint
+    100120: Right_shoulder_joint
+    100122: Right_thigh_joint
+    100124: Right_thumb01_joint
+    100126: Right_thumb02_joint
+    100128: Right_thumb03_joint
+    100130: Right_thumb04_joint
+    100132: Right_toe_joint
+    100134: Right_weapon_joint
+    100136: Right_wrist_joint
+    100138: root_joint
+    100140: spine01_joint
+    100142: spine02_joint
+    100144: spine03_joint
+    100146: spine04_joint
+    100148: spine05_joint
+    100150: top_joint
+    400000: chin_joint
+    400002: head_joint
+    400004: hip_joint
+    400006: jaw_joint
+    400008: //RootNode
+    400010: Kesh
+    400012: Left_ankle_joint
+    400014: Left_ball_joint
+    400016: Left_clavicle_joint
+    400018: Left_elbow_joint
+    400020: Left_hand_joint
+    400022: Left_index01_joint
+    400024: Left_index02_joint
+    400026: Left_index03_joint
+    400028: Left_index04_joint
+    400030: Left_knee_joint
+    400032: Left_middlie01_joint
+    400034: Left_middlie02_joint
+    400036: Left_middlie03_joint
+    400038: Left_middlie04_joint
+    400040: Left_pinky01_joint
+    400042: Left_pinky02_joint
+    400044: Left_pinky03_joint
+    400046: Left_pinky04_joint
+    400048: Left_ring01_joint
+    400050: Left_ring02_joint
+    400052: Left_ring03_joint
+    400054: Left_ring04_joint
+    400056: Left_shoulder_joint
+    400058: Left_thigh_joint
+    400060: Left_thumb01_joint
+    400062: Left_thumb02_joint
+    400064: Left_thumb03_joint
+    400066: Left_thumb04_joint
+    400068: Left_toe_joint
+    400070: Left_weapon_joint
+    400072: Left_wrist_joint
+    400074: lowerneck_joint
+    400076: Right_ankle_joint
+    400078: Right_ball_joint
+    400080: Right_clavicle_joint
+    400082: Right_elbow_joint
+    400084: Right_hand_joint
+    400086: Right_index01_joint
+    400088: Right_index02_joint
+    400090: Right_index03_joint
+    400092: Right_index04_joint
+    400094: Right_knee_joint
+    400096: Right_middlie01_joint
+    400098: Right_middlie02_joint
+    400100: Right_middlie03_joint
+    400102: Right_middlie04_joint
+    400104: Right_pinky01_joint
+    400106: Right_pinky02_joint
+    400108: Right_pinky03_joint
+    400110: Right_pinky04_joint
+    400112: Right_ring01_joint
+    400114: Right_ring02_joint
+    400116: Right_ring03_joint
+    400118: Right_ring04_joint
+    400120: Right_shoulder_joint
+    400122: Right_thigh_joint
+    400124: Right_thumb01_joint
+    400126: Right_thumb02_joint
+    400128: Right_thumb03_joint
+    400130: Right_thumb04_joint
+    400132: Right_toe_joint
+    400134: Right_weapon_joint
+    400136: Right_wrist_joint
+    400138: root_joint
+    400140: spine01_joint
+    400142: spine02_joint
+    400144: spine03_joint
+    400146: spine04_joint
+    400148: spine05_joint
+    400150: top_joint
+    2300000: Kesh
+    3300000: Kesh
+    4300000: Kesh
+    7400000: Kesh_Idle
+    7400002: Kesh_Walk_Cycle
+    7400004: Kesh_Jab_Attack
+    7400006: Kesh_Down_Attack
+    7400008: Kesh_Block
+    7400010: Kesh_Slash_Atack
+    7400012: Kesh_Roll
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Kesh_Walk_Cycle
+      takeName: Take 001
+      firstFrame: 2
+      lastFrame: 61
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Kesh
+        weight: 1
+      - path: root_joint
+        weight: 1
+      - path: root_joint/hip_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint/Left_knee_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint/Left_knee_joint/Left_ankle_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint/Left_knee_joint/Left_ankle_joint/Left_ball_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint/Left_knee_joint/Left_ankle_joint/Left_ball_joint/Left_toe_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint/Right_knee_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint/Right_knee_joint/Right_ankle_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint/Right_knee_joint/Right_ankle_joint/Right_ball_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint/Right_knee_joint/Right_ankle_joint/Right_ball_joint/Right_toe_joint
+        weight: 1
+      - path: root_joint/spine01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_index01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_index01_joint/Left_index02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_index01_joint/Left_index02_joint/Left_index03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_index01_joint/Left_index02_joint/Left_index03_joint/Left_index04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_middlie01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_middlie01_joint/Left_middlie02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_middlie01_joint/Left_middlie02_joint/Left_middlie03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_middlie01_joint/Left_middlie02_joint/Left_middlie03_joint/Left_middlie04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_pinky01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_pinky01_joint/Left_pinky02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_pinky01_joint/Left_pinky02_joint/Left_pinky03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_pinky01_joint/Left_pinky02_joint/Left_pinky03_joint/Left_pinky04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_ring01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_ring01_joint/Left_ring02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_ring01_joint/Left_ring02_joint/Left_ring03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_ring01_joint/Left_ring02_joint/Left_ring03_joint/Left_ring04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_thumb01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_thumb01_joint/Left_thumb02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_thumb01_joint/Left_thumb02_joint/Left_thumb03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_thumb01_joint/Left_thumb02_joint/Left_thumb03_joint/Left_thumb04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_weapon_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint/head_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint/head_joint/jaw_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint/head_joint/jaw_joint/chin_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint/head_joint/top_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_index01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_index01_joint/Right_index02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_index01_joint/Right_index02_joint/Right_index03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_index01_joint/Right_index02_joint/Right_index03_joint/Right_index04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_middlie01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_middlie01_joint/Right_middlie02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_middlie01_joint/Right_middlie02_joint/Right_middlie03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_middlie01_joint/Right_middlie02_joint/Right_middlie03_joint/Right_middlie04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_pinky01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_pinky01_joint/Right_pinky02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_pinky01_joint/Right_pinky02_joint/Right_pinky03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_pinky01_joint/Right_pinky02_joint/Right_pinky03_joint/Right_pinky04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_ring01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_ring01_joint/Right_ring02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_ring01_joint/Right_ring02_joint/Right_ring03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_ring01_joint/Right_ring02_joint/Right_ring03_joint/Right_ring04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_thumb01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_thumb01_joint/Right_thumb02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_thumb01_joint/Right_thumb02_joint/Right_thumb03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_thumb01_joint/Right_thumb02_joint/Right_thumb03_joint/Right_thumb04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_weapon_joint
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Kesh_Idle
+      takeName: Take 001
+      firstFrame: 62
+      lastFrame: 122
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Kesh
+        weight: 1
+      - path: root_joint
+        weight: 1
+      - path: root_joint/hip_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint/Left_knee_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint/Left_knee_joint/Left_ankle_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint/Left_knee_joint/Left_ankle_joint/Left_ball_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint/Left_knee_joint/Left_ankle_joint/Left_ball_joint/Left_toe_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint/Right_knee_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint/Right_knee_joint/Right_ankle_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint/Right_knee_joint/Right_ankle_joint/Right_ball_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint/Right_knee_joint/Right_ankle_joint/Right_ball_joint/Right_toe_joint
+        weight: 1
+      - path: root_joint/spine01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_index01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_index01_joint/Left_index02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_index01_joint/Left_index02_joint/Left_index03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_index01_joint/Left_index02_joint/Left_index03_joint/Left_index04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_middlie01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_middlie01_joint/Left_middlie02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_middlie01_joint/Left_middlie02_joint/Left_middlie03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_middlie01_joint/Left_middlie02_joint/Left_middlie03_joint/Left_middlie04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_pinky01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_pinky01_joint/Left_pinky02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_pinky01_joint/Left_pinky02_joint/Left_pinky03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_pinky01_joint/Left_pinky02_joint/Left_pinky03_joint/Left_pinky04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_ring01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_ring01_joint/Left_ring02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_ring01_joint/Left_ring02_joint/Left_ring03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_ring01_joint/Left_ring02_joint/Left_ring03_joint/Left_ring04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_thumb01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_thumb01_joint/Left_thumb02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_thumb01_joint/Left_thumb02_joint/Left_thumb03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_thumb01_joint/Left_thumb02_joint/Left_thumb03_joint/Left_thumb04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_weapon_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint/head_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint/head_joint/jaw_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint/head_joint/jaw_joint/chin_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint/head_joint/top_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_index01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_index01_joint/Right_index02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_index01_joint/Right_index02_joint/Right_index03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_index01_joint/Right_index02_joint/Right_index03_joint/Right_index04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_middlie01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_middlie01_joint/Right_middlie02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_middlie01_joint/Right_middlie02_joint/Right_middlie03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_middlie01_joint/Right_middlie02_joint/Right_middlie03_joint/Right_middlie04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_pinky01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_pinky01_joint/Right_pinky02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_pinky01_joint/Right_pinky02_joint/Right_pinky03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_pinky01_joint/Right_pinky02_joint/Right_pinky03_joint/Right_pinky04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_ring01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_ring01_joint/Right_ring02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_ring01_joint/Right_ring02_joint/Right_ring03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_ring01_joint/Right_ring02_joint/Right_ring03_joint/Right_ring04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_thumb01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_thumb01_joint/Right_thumb02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_thumb01_joint/Right_thumb02_joint/Right_thumb03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_thumb01_joint/Right_thumb02_joint/Right_thumb03_joint/Right_thumb04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_weapon_joint
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Kesh_Jab_Attack
+      takeName: Take 001
+      firstFrame: 123
+      lastFrame: 152
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Kesh
+        weight: 1
+      - path: root_joint
+        weight: 1
+      - path: root_joint/hip_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint/Left_knee_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint/Left_knee_joint/Left_ankle_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint/Left_knee_joint/Left_ankle_joint/Left_ball_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint/Left_knee_joint/Left_ankle_joint/Left_ball_joint/Left_toe_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint/Right_knee_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint/Right_knee_joint/Right_ankle_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint/Right_knee_joint/Right_ankle_joint/Right_ball_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint/Right_knee_joint/Right_ankle_joint/Right_ball_joint/Right_toe_joint
+        weight: 1
+      - path: root_joint/spine01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_index01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_index01_joint/Left_index02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_index01_joint/Left_index02_joint/Left_index03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_index01_joint/Left_index02_joint/Left_index03_joint/Left_index04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_middlie01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_middlie01_joint/Left_middlie02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_middlie01_joint/Left_middlie02_joint/Left_middlie03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_middlie01_joint/Left_middlie02_joint/Left_middlie03_joint/Left_middlie04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_pinky01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_pinky01_joint/Left_pinky02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_pinky01_joint/Left_pinky02_joint/Left_pinky03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_pinky01_joint/Left_pinky02_joint/Left_pinky03_joint/Left_pinky04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_ring01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_ring01_joint/Left_ring02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_ring01_joint/Left_ring02_joint/Left_ring03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_ring01_joint/Left_ring02_joint/Left_ring03_joint/Left_ring04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_thumb01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_thumb01_joint/Left_thumb02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_thumb01_joint/Left_thumb02_joint/Left_thumb03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_thumb01_joint/Left_thumb02_joint/Left_thumb03_joint/Left_thumb04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_weapon_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint/head_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint/head_joint/jaw_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint/head_joint/jaw_joint/chin_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint/head_joint/top_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_index01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_index01_joint/Right_index02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_index01_joint/Right_index02_joint/Right_index03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_index01_joint/Right_index02_joint/Right_index03_joint/Right_index04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_middlie01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_middlie01_joint/Right_middlie02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_middlie01_joint/Right_middlie02_joint/Right_middlie03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_middlie01_joint/Right_middlie02_joint/Right_middlie03_joint/Right_middlie04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_pinky01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_pinky01_joint/Right_pinky02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_pinky01_joint/Right_pinky02_joint/Right_pinky03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_pinky01_joint/Right_pinky02_joint/Right_pinky03_joint/Right_pinky04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_ring01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_ring01_joint/Right_ring02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_ring01_joint/Right_ring02_joint/Right_ring03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_ring01_joint/Right_ring02_joint/Right_ring03_joint/Right_ring04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_thumb01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_thumb01_joint/Right_thumb02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_thumb01_joint/Right_thumb02_joint/Right_thumb03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_thumb01_joint/Right_thumb02_joint/Right_thumb03_joint/Right_thumb04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_weapon_joint
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Kesh_Down_Attack
+      takeName: Take 001
+      firstFrame: 153
+      lastFrame: 182
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Kesh
+        weight: 1
+      - path: root_joint
+        weight: 1
+      - path: root_joint/hip_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint/Left_knee_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint/Left_knee_joint/Left_ankle_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint/Left_knee_joint/Left_ankle_joint/Left_ball_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint/Left_knee_joint/Left_ankle_joint/Left_ball_joint/Left_toe_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint/Right_knee_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint/Right_knee_joint/Right_ankle_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint/Right_knee_joint/Right_ankle_joint/Right_ball_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint/Right_knee_joint/Right_ankle_joint/Right_ball_joint/Right_toe_joint
+        weight: 1
+      - path: root_joint/spine01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_index01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_index01_joint/Left_index02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_index01_joint/Left_index02_joint/Left_index03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_index01_joint/Left_index02_joint/Left_index03_joint/Left_index04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_middlie01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_middlie01_joint/Left_middlie02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_middlie01_joint/Left_middlie02_joint/Left_middlie03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_middlie01_joint/Left_middlie02_joint/Left_middlie03_joint/Left_middlie04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_pinky01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_pinky01_joint/Left_pinky02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_pinky01_joint/Left_pinky02_joint/Left_pinky03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_pinky01_joint/Left_pinky02_joint/Left_pinky03_joint/Left_pinky04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_ring01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_ring01_joint/Left_ring02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_ring01_joint/Left_ring02_joint/Left_ring03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_ring01_joint/Left_ring02_joint/Left_ring03_joint/Left_ring04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_thumb01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_thumb01_joint/Left_thumb02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_thumb01_joint/Left_thumb02_joint/Left_thumb03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_thumb01_joint/Left_thumb02_joint/Left_thumb03_joint/Left_thumb04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_weapon_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint/head_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint/head_joint/jaw_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint/head_joint/jaw_joint/chin_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint/head_joint/top_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_index01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_index01_joint/Right_index02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_index01_joint/Right_index02_joint/Right_index03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_index01_joint/Right_index02_joint/Right_index03_joint/Right_index04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_middlie01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_middlie01_joint/Right_middlie02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_middlie01_joint/Right_middlie02_joint/Right_middlie03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_middlie01_joint/Right_middlie02_joint/Right_middlie03_joint/Right_middlie04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_pinky01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_pinky01_joint/Right_pinky02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_pinky01_joint/Right_pinky02_joint/Right_pinky03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_pinky01_joint/Right_pinky02_joint/Right_pinky03_joint/Right_pinky04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_ring01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_ring01_joint/Right_ring02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_ring01_joint/Right_ring02_joint/Right_ring03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_ring01_joint/Right_ring02_joint/Right_ring03_joint/Right_ring04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_thumb01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_thumb01_joint/Right_thumb02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_thumb01_joint/Right_thumb02_joint/Right_thumb03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_thumb01_joint/Right_thumb02_joint/Right_thumb03_joint/Right_thumb04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_weapon_joint
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Kesh_Block
+      takeName: Take 001
+      firstFrame: 204
+      lastFrame: 273
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Kesh
+        weight: 1
+      - path: root_joint
+        weight: 1
+      - path: root_joint/hip_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint/Left_knee_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint/Left_knee_joint/Left_ankle_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint/Left_knee_joint/Left_ankle_joint/Left_ball_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint/Left_knee_joint/Left_ankle_joint/Left_ball_joint/Left_toe_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint/Right_knee_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint/Right_knee_joint/Right_ankle_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint/Right_knee_joint/Right_ankle_joint/Right_ball_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint/Right_knee_joint/Right_ankle_joint/Right_ball_joint/Right_toe_joint
+        weight: 1
+      - path: root_joint/spine01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_index01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_index01_joint/Left_index02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_index01_joint/Left_index02_joint/Left_index03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_index01_joint/Left_index02_joint/Left_index03_joint/Left_index04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_middlie01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_middlie01_joint/Left_middlie02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_middlie01_joint/Left_middlie02_joint/Left_middlie03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_middlie01_joint/Left_middlie02_joint/Left_middlie03_joint/Left_middlie04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_pinky01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_pinky01_joint/Left_pinky02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_pinky01_joint/Left_pinky02_joint/Left_pinky03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_pinky01_joint/Left_pinky02_joint/Left_pinky03_joint/Left_pinky04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_ring01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_ring01_joint/Left_ring02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_ring01_joint/Left_ring02_joint/Left_ring03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_ring01_joint/Left_ring02_joint/Left_ring03_joint/Left_ring04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_thumb01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_thumb01_joint/Left_thumb02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_thumb01_joint/Left_thumb02_joint/Left_thumb03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_thumb01_joint/Left_thumb02_joint/Left_thumb03_joint/Left_thumb04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_weapon_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint/head_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint/head_joint/jaw_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint/head_joint/jaw_joint/chin_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint/head_joint/top_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_index01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_index01_joint/Right_index02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_index01_joint/Right_index02_joint/Right_index03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_index01_joint/Right_index02_joint/Right_index03_joint/Right_index04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_middlie01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_middlie01_joint/Right_middlie02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_middlie01_joint/Right_middlie02_joint/Right_middlie03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_middlie01_joint/Right_middlie02_joint/Right_middlie03_joint/Right_middlie04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_pinky01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_pinky01_joint/Right_pinky02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_pinky01_joint/Right_pinky02_joint/Right_pinky03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_pinky01_joint/Right_pinky02_joint/Right_pinky03_joint/Right_pinky04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_ring01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_ring01_joint/Right_ring02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_ring01_joint/Right_ring02_joint/Right_ring03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_ring01_joint/Right_ring02_joint/Right_ring03_joint/Right_ring04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_thumb01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_thumb01_joint/Right_thumb02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_thumb01_joint/Right_thumb02_joint/Right_thumb03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_thumb01_joint/Right_thumb02_joint/Right_thumb03_joint/Right_thumb04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_weapon_joint
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Kesh_Slash_Atack
+      takeName: Take 001
+      firstFrame: 183
+      lastFrame: 203
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Kesh
+        weight: 1
+      - path: root_joint
+        weight: 1
+      - path: root_joint/hip_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint/Left_knee_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint/Left_knee_joint/Left_ankle_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint/Left_knee_joint/Left_ankle_joint/Left_ball_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint/Left_knee_joint/Left_ankle_joint/Left_ball_joint/Left_toe_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint/Right_knee_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint/Right_knee_joint/Right_ankle_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint/Right_knee_joint/Right_ankle_joint/Right_ball_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint/Right_knee_joint/Right_ankle_joint/Right_ball_joint/Right_toe_joint
+        weight: 1
+      - path: root_joint/spine01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_index01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_index01_joint/Left_index02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_index01_joint/Left_index02_joint/Left_index03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_index01_joint/Left_index02_joint/Left_index03_joint/Left_index04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_middlie01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_middlie01_joint/Left_middlie02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_middlie01_joint/Left_middlie02_joint/Left_middlie03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_middlie01_joint/Left_middlie02_joint/Left_middlie03_joint/Left_middlie04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_pinky01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_pinky01_joint/Left_pinky02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_pinky01_joint/Left_pinky02_joint/Left_pinky03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_pinky01_joint/Left_pinky02_joint/Left_pinky03_joint/Left_pinky04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_ring01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_ring01_joint/Left_ring02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_ring01_joint/Left_ring02_joint/Left_ring03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_ring01_joint/Left_ring02_joint/Left_ring03_joint/Left_ring04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_thumb01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_thumb01_joint/Left_thumb02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_thumb01_joint/Left_thumb02_joint/Left_thumb03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_thumb01_joint/Left_thumb02_joint/Left_thumb03_joint/Left_thumb04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_weapon_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint/head_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint/head_joint/jaw_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint/head_joint/jaw_joint/chin_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint/head_joint/top_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_index01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_index01_joint/Right_index02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_index01_joint/Right_index02_joint/Right_index03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_index01_joint/Right_index02_joint/Right_index03_joint/Right_index04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_middlie01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_middlie01_joint/Right_middlie02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_middlie01_joint/Right_middlie02_joint/Right_middlie03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_middlie01_joint/Right_middlie02_joint/Right_middlie03_joint/Right_middlie04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_pinky01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_pinky01_joint/Right_pinky02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_pinky01_joint/Right_pinky02_joint/Right_pinky03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_pinky01_joint/Right_pinky02_joint/Right_pinky03_joint/Right_pinky04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_ring01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_ring01_joint/Right_ring02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_ring01_joint/Right_ring02_joint/Right_ring03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_ring01_joint/Right_ring02_joint/Right_ring03_joint/Right_ring04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_thumb01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_thumb01_joint/Right_thumb02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_thumb01_joint/Right_thumb02_joint/Right_thumb03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_thumb01_joint/Right_thumb02_joint/Right_thumb03_joint/Right_thumb04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_weapon_joint
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Kesh_Roll
+      takeName: Take 001
+      firstFrame: 274
+      lastFrame: 302
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Kesh
+        weight: 1
+      - path: root_joint
+        weight: 1
+      - path: root_joint/hip_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint/Left_knee_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint/Left_knee_joint/Left_ankle_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint/Left_knee_joint/Left_ankle_joint/Left_ball_joint
+        weight: 1
+      - path: root_joint/hip_joint/Left_thigh_joint/Left_knee_joint/Left_ankle_joint/Left_ball_joint/Left_toe_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint/Right_knee_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint/Right_knee_joint/Right_ankle_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint/Right_knee_joint/Right_ankle_joint/Right_ball_joint
+        weight: 1
+      - path: root_joint/hip_joint/Right_thigh_joint/Right_knee_joint/Right_ankle_joint/Right_ball_joint/Right_toe_joint
+        weight: 1
+      - path: root_joint/spine01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_index01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_index01_joint/Left_index02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_index01_joint/Left_index02_joint/Left_index03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_index01_joint/Left_index02_joint/Left_index03_joint/Left_index04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_middlie01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_middlie01_joint/Left_middlie02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_middlie01_joint/Left_middlie02_joint/Left_middlie03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_middlie01_joint/Left_middlie02_joint/Left_middlie03_joint/Left_middlie04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_pinky01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_pinky01_joint/Left_pinky02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_pinky01_joint/Left_pinky02_joint/Left_pinky03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_pinky01_joint/Left_pinky02_joint/Left_pinky03_joint/Left_pinky04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_ring01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_ring01_joint/Left_ring02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_ring01_joint/Left_ring02_joint/Left_ring03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_ring01_joint/Left_ring02_joint/Left_ring03_joint/Left_ring04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_thumb01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_thumb01_joint/Left_thumb02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_thumb01_joint/Left_thumb02_joint/Left_thumb03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_thumb01_joint/Left_thumb02_joint/Left_thumb03_joint/Left_thumb04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Left_clavicle_joint/Left_shoulder_joint/Left_elbow_joint/Left_wrist_joint/Left_hand_joint/Left_weapon_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint/head_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint/head_joint/jaw_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint/head_joint/jaw_joint/chin_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/lowerneck_joint/head_joint/top_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_index01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_index01_joint/Right_index02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_index01_joint/Right_index02_joint/Right_index03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_index01_joint/Right_index02_joint/Right_index03_joint/Right_index04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_middlie01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_middlie01_joint/Right_middlie02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_middlie01_joint/Right_middlie02_joint/Right_middlie03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_middlie01_joint/Right_middlie02_joint/Right_middlie03_joint/Right_middlie04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_pinky01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_pinky01_joint/Right_pinky02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_pinky01_joint/Right_pinky02_joint/Right_pinky03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_pinky01_joint/Right_pinky02_joint/Right_pinky03_joint/Right_pinky04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_ring01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_ring01_joint/Right_ring02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_ring01_joint/Right_ring02_joint/Right_ring03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_ring01_joint/Right_ring02_joint/Right_ring03_joint/Right_ring04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_thumb01_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_thumb01_joint/Right_thumb02_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_thumb01_joint/Right_thumb02_joint/Right_thumb03_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_thumb01_joint/Right_thumb02_joint/Right_thumb03_joint/Right_thumb04_joint
+        weight: 1
+      - path: root_joint/spine01_joint/spine02_joint/spine03_joint/spine04_joint/spine05_joint/Right_clavicle_joint/Right_shoulder_joint/Right_elbow_joint/Right_wrist_joint/Right_hand_joint/Right_weapon_joint
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
