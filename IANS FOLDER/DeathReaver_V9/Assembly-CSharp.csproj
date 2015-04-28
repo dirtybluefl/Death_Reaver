@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{AAA02C56-B7E1-09AA-0CE1-54CCA4F04786}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_6_1;UNITY_4_6;UNITY_STANDALONE_WIN;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_4_6_FEATURES;INCLUDE_WP_BLUE_SUPPORT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>F:/Program Files/UnityEditor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>F:/Program Files/UnityEditor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Quantum Theory\Polyworld\Scripts\QT_InteractContainer.cs" />
+     <Compile Include="Assets\Quantum Theory\Polyworld\Scripts\QT_LightFlicker.cs" />
+     <Compile Include="Assets\Quantum Theory\Polyworld\Scripts\QT_RenderBaseMap.cs" />
+     <Compile Include="Assets\Quantum Theory\Polyworld\Scripts\QT_SurfaceNoise.cs" />
+     <Compile Include="Assets\Quantum Theory\Polyworld\Scripts\Utility Scripts\MeshCombineUtility.cs" />
+     <Compile Include="Assets\Scripts\Armor_Pickup.cs" />
+     <Compile Include="Assets\Scripts\Button_Scripts\Character Screen\Mace_Specialization.cs" />
+     <Compile Include="Assets\Scripts\Button_Scripts\Character Screen\Reset_Skills.cs" />
+     <Compile Include="Assets\Scripts\Button_Scripts\Character Screen\Staff_Specialization.cs" />
+     <Compile Include="Assets\Scripts\Button_Scripts\Character Screen\Sword_Specialization.cs" />
+     <Compile Include="Assets\Scripts\Button_Scripts\Character Screen\ability1_Activated.cs" />
+     <Compile Include="Assets\Scripts\Button_Scripts\Character Screen\ability2_Activated.cs" />
+     <Compile Include="Assets\Scripts\Button_Scripts\Character Screen\character_Submit.cs" />
+     <Compile Include="Assets\Scripts\Button_Scripts\Character Screen\selected_Tier1.cs" />
+     <Compile Include="Assets\Scripts\Button_Scripts\Character Screen\selected_Tier2.cs" />
+     <Compile Include="Assets\Scripts\Button_Scripts\Character Screen\selected_Tier3.cs" />
+     <Compile Include="Assets\Scripts\Button_Scripts\Character Screen\selected_Weapon.cs" />
+     <Compile Include="Assets\Scripts\Button_Scripts\Character Screen\tier1_Talent1.cs" />
+     <Compile Include="Assets\Scripts\Button_Scripts\Character Screen\tier1_Talent2.cs" />
+     <Compile Include="Assets\Scripts\Button_Scripts\Character Screen\tier1_Talent3.cs" />
+     <Compile Include="Assets\Scripts\Button_Scripts\Character Screen\tier2_Talent1.cs" />
+     <Compile Include="Assets\Scripts\Button_Scripts\Character Screen\tier2_Talent2.cs" />
+     <Compile Include="Assets\Scripts\Button_Scripts\Character Screen\tier2_Talent3.cs" />
+     <Compile Include="Assets\Scripts\Button_Scripts\Character Screen\tier3_Talent1.cs" />
+     <Compile Include="Assets\Scripts\Button_Scripts\Character Screen\tier3_Talent2.cs" />
+     <Compile Include="Assets\Scripts\Button_Scripts\Character Screen\tier3_Talent3.cs" />
+     <Compile Include="Assets\Scripts\Button_Scripts\Exit_Game.cs" />
+     <Compile Include="Assets\Scripts\Button_Scripts\Give_Max_Souls.cs" />
+     <Compile Include="Assets\Scripts\Button_Scripts\Health_Text.cs" />
+     <Compile Include="Assets\Scripts\Button_Scripts\MainMenu_Quit.cs" />
+     <Compile Include="Assets\Scripts\Button_Scripts\PlayerHUD.cs" />
+     <Compile Include="Assets\Scripts\Button_Scripts\Restart_Button.cs" />
+     <Compile Include="Assets\Scripts\Button_Scripts\Resume_Button.cs" />
+     <Compile Include="Assets\Scripts\Button_Scripts\Resume_Button2.cs" />
+     <Compile Include="Assets\Scripts\Button_Scripts\Soul_Text.cs" />
+     <Compile Include="Assets\Scripts\Button_Scripts\StoryMode_Button.cs" />
+     <Compile Include="Assets\Scripts\Button_Scripts\SurvivalMode_Button.cs" />
+     <Compile Include="Assets\Scripts\CameraControl.cs" />
+     <Compile Include="Assets\Scripts\CameraControl2.cs" />
+     <Compile Include="Assets\Scripts\CameraFacingBillBoard.cs" />
+     <Compile Include="Assets\Scripts\Character_Screen.cs" />
+     <Compile Include="Assets\Scripts\Character_SoulsCollected.cs" />
+     <Compile Include="Assets\Scripts\ClicktoMove.cs" />
+     <Compile Include="Assets\Scripts\Creature_Class.cs" />
+     <Compile Include="Assets\Scripts\Death_Screen.cs" />
+     <Compile Include="Assets\Scripts\Debug Screen Stuff\Debug_Stat1.cs" />
+     <Compile Include="Assets\Scripts\Debug Screen Stuff\Debug_Stat10.cs" />
+     <Compile Include="Assets\Scripts\Debug Screen Stuff\Debug_Stat11.cs" />
+     <Compile Include="Assets\Scripts\Debug Screen Stuff\Debug_Stat12.cs" />
+     <Compile Include="Assets\Scripts\Debug Screen Stuff\Debug_Stat13.cs" />
+     <Compile Include="Assets\Scripts\Debug Screen Stuff\Debug_Stat14.cs" />
+     <Compile Include="Assets\Scripts\Debug Screen Stuff\Debug_Stat15.cs" />
+     <Compile Include="Assets\Scripts\Debug Screen Stuff\Debug_Stat16.cs" />
+     <Compile Include="Assets\Scripts\Debug Screen Stuff\Debug_Stat2.cs" />
+     <Compile Include="Assets\Scripts\Debug Screen Stuff\Debug_Stat3.cs" />
+     <Compile Include="Assets\Scripts\Debug Screen Stuff\Debug_Stat4.cs" />
+     <Compile Include="Assets\Scripts\Debug Screen Stuff\Debug_Stat5.cs" />
+     <Compile Include="Assets\Scripts\Debug Screen Stuff\Debug_Stat6.cs" />
+     <Compile Include="Assets\Scripts\Debug Screen Stuff\Debug_Stat7.cs" />
+     <Compile Include="Assets\Scripts\Debug Screen Stuff\Debug_Stat8.cs" />
+     <Compile Include="Assets\Scripts\Debug Screen Stuff\Debug_Stat9.cs" />
+     <Compile Include="Assets\Scripts\Debug_Screen.cs" />
+     <Compile Include="Assets\Scripts\Drive_Shockwave.cs" />
+     <Compile Include="Assets\Scripts\EndGame.cs" />
+     <Compile Include="Assets\Scripts\Enemy.cs" />
+     <Compile Include="Assets\Scripts\Enemy2.cs" />
+     <Compile Include="Assets\Scripts\Enemy_HealthBar.cs" />
+     <Compile Include="Assets\Scripts\Exit_Museum.cs" />
+     <Compile Include="Assets\Scripts\FixRotation.cs" />
+     <Compile Include="Assets\Scripts\Lab_Breakout.cs" />
+     <Compile Include="Assets\Scripts\LevelController.cs" />
+     <Compile Include="Assets\Scripts\Pause_Screen.cs" />
+     <Compile Include="Assets\Scripts\Player.cs" />
+     <Compile Include="Assets\Scripts\Player2.cs" />
+     <Compile Include="Assets\Scripts\Player2_RollBackup.cs" />
+     <Compile Include="Assets\Scripts\Player_HealthBar.cs" />
+     <Compile Include="Assets\Scripts\Player_SoulBar.cs" />
+     <Compile Include="Assets\Scripts\Ranged_Enemy.cs" />
+     <Compile Include="Assets\Scripts\Spawning.cs" />
+     <Compile Include="Assets\Scripts\Talent Tool Tips\Tooltip_Charge_Talent.cs" />
+     <Compile Include="Assets\Scripts\Talent Tool Tips\Tooltip_Cleave_Talent.cs" />
+     <Compile Include="Assets\Scripts\Talent Tool Tips\Tooltip_Determination_Talent.cs" />
+     <Compile Include="Assets\Scripts\Talent Tool Tips\Tooltip_Drive_Talent.cs" />
+     <Compile Include="Assets\Scripts\Talent Tool Tips\Tooltip_Mace.cs" />
+     <Compile Include="Assets\Scripts\Talent Tool Tips\Tooltip_Might_Talent.cs" />
+     <Compile Include="Assets\Scripts\Talent Tool Tips\Tooltip_Reaver_Talent.cs" />
+     <Compile Include="Assets\Scripts\Talent Tool Tips\Tooltip_Staff.cs" />
+     <Compile Include="Assets\Scripts\Talent Tool Tips\Tooltip_Stalwart_Talent.cs" />
+     <Compile Include="Assets\Scripts\Talent Tool Tips\Tooltip_Sword.cs" />
+     <Compile Include="Assets\Scripts\Talent Tool Tips\Tooltip_Unbreakable_Talent.cs" />
+     <Compile Include="Assets\Scripts\Talent Tool Tips\Tooltip_Warp_Talent.cs" />
+     <Compile Include="Assets\Scripts\TransitionCamera.cs" />
+     <None Include="Assets\Quantum Theory\Polyworld\Shaders\VertexColors\IBL\VertexColorsIBLDiffuse.shader" />
+     <None Include="Assets\Quantum Theory\Polyworld\Shaders\VertexColors\IBL\VertexColorsIBLDiffuseTex.shader" />
+     <None Include="Assets\Quantum Theory\Polyworld\Shaders\VertexColors\VertexLitVertexColors.shader" />
+     <None Include="Assets\Quantum Theory\Polyworld\Shaders\VertexColors\IBL\VertexLitIBL.cginc" />
+     <None Include="Assets\Civilian Models\ArtResources\Shader\CharacterShader_mobile.shader" />
+     <None Include="Assets\Quantum Theory\Polyworld\Shaders\VertexColors\IBL\VertexColorsIBLEmissive.shader" />
+     <None Include="Assets\Quantum Theory\Polyworld\Shaders\VertexColors\IBL\VertexColorsIBLReflective.shader" />
+     <None Include="Assets\SkeletonData\animations.txt" />
+     <None Include="Assets\Quantum Theory\Polyworld\Shaders\VertexColors\IBL\QT_Cubemaps.cginc" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>F:/Program Files/UnityEditor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{1F64F6F9-7136-8E0C-A1CF-5FF77C249077}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+    <ProjectReference Include="Assembly-UnityScript-firstpass.unityproj">
+      <Project>{870DA36D-D5E7-788A-5537-2528A51F3845}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>
